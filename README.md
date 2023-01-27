@@ -25,4 +25,5 @@
 
 # Блок схема второго метода
 ![Блок схема](%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F.png)
+![2023-01-27_16-13-04](https://user-images.githubusercontent.com/119313458/215106768-eb1e6cee-07af-4d70-bea5-eac130bc8591.png)
 
